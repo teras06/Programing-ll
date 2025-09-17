@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "weak2lab", "weak2lab", "{C8
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arraylab", "ArrayLAb\ArrayLAb.vcxproj", "{7CCF58D7-79A3-4032-90FD-C87270D7D4FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{7DD890F2-8D91-472D-95BF-C4923C6C9707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -43,6 +45,14 @@ Global
 		{7CCF58D7-79A3-4032-90FD-C87270D7D4FF}.Release|x64.Build.0 = Release|x64
 		{7CCF58D7-79A3-4032-90FD-C87270D7D4FF}.Release|x86.ActiveCfg = Release|Win32
 		{7CCF58D7-79A3-4032-90FD-C87270D7D4FF}.Release|x86.Build.0 = Release|Win32
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Debug|x64.ActiveCfg = Debug|x64
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Debug|x64.Build.0 = Debug|x64
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Debug|x86.ActiveCfg = Debug|Win32
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Debug|x86.Build.0 = Debug|Win32
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Release|x64.ActiveCfg = Release|x64
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Release|x64.Build.0 = Release|x64
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Release|x86.ActiveCfg = Release|Win32
+		{7DD890F2-8D91-472D-95BF-C4923C6C9707}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
